@@ -3,3 +3,5 @@ It is an E-commerce website which consists of many different types of cinematic 
 It is a one place solution for all the cinematic enthusiasts as well as content creators.
 
 This project is under development so bugs may occur.
+
+The whole project is in master branch.
